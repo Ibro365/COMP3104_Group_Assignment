@@ -1,4 +1,12 @@
 # COMP3104_Group_Assignment
 
-we have three files in here. The frist one is georgebrown information.
-The second one is DevOps course information, and the last one is DevOps engineer software development cycle. 
+
+101187431_gb.txt: This text file contains information about George Brown College.
+
+101187431_devops.txt: This text file contains information about COMP 3104
+DevOps course.
+
+101187431_sdlc.txt: This text file contains details about importance of learning
+DevOps engineer in software development cycle
+
+

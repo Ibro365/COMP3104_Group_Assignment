@@ -5,5 +5,3 @@ Recommended resoursec are:
 3. https://docker.com
 4. https://kubernetes.io
 5. https://www.sonarqube.org
-
-Midterm for the couse is on the 9th week.

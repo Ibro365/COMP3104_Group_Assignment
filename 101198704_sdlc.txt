@@ -1,1 +1,3 @@
 The main purpose of DevOps is to reduce software development, and deployment cycle time
+
+DevOps practices enable faster software releases through continuous delivery, and agile methodologies. 

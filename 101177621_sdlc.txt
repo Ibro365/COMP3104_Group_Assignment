@@ -3,3 +3,11 @@ system operators and admins, IT operations staff and others to
 oversee and/or facilitate code releases or deployments on a 
 CI/CD basis.
 
+DevOps assimilates development and operations teams to improve 
+the collaboration process. 
+A DevOps Engineer will work with IT developers to facilitate 
+better coordination among operations, development, and testing 
+functions by automating and streamlining the integration and 
+deployment processes.
+
+DevOps Engineers get paid upto 98k a year.

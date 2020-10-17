@@ -1,0 +1,5 @@
+A DevOps engineer is an IT professional who works with software developers, 
+system operators and admins, IT operations staff and others to 
+oversee and/or facilitate code releases or deployments on a 
+CI/CD basis.
+

@@ -7,3 +7,6 @@ Recommended Resources:
 - travis-ci
 - docker 
 - kubernetes
+
+
+email for Teacher ( Pritesh.Patel@georgebrown.ca )

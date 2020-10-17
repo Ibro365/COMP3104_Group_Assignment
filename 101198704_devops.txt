@@ -1,0 +1,12 @@
+Course code is Comp 3104
+
+Teacher Name is Pritesh Patel 
+
+Recommended Resources:
+- git hub 
+- travis-ci
+- docker 
+- kubernetes
+
+
+email for Teacher ( Pritesh.Patel@georgebrown.ca )

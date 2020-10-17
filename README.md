@@ -4,3 +4,4 @@ There are three files included in the folder. The three of them are: 101177621_g
 101177621_devops.txt file contains details about the COMP 3104 course.
 101177621_sdlc.txt file contains details about the importance of a devOps Engineering.
 
+
